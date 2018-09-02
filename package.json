@@ -1,0 +1,20 @@
+{
+  "name": "colour-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Gatto",
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^1.9.3",
+    "download-file": "^0.1.5",
+    "express": "^4.16.3",
+    "node-vibrant": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
